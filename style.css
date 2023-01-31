@@ -1,0 +1,47 @@
+.main {
+    font-size: 30pt;
+    text-align: center;
+    padding: 15px;
+    background: dimgray;
+    color: white;
+}
+.news {
+    font-size: 30pt;
+    text-align: center;
+    padding: 15px;
+    background: rgb(249, 249, 185);
+    transition: 0.5s;
+}
+.news:hover {
+    background: rgb(241, 241, 129);
+    transition: 0.5s;
+}
+.link {
+    color: red;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.link:hover {
+    transition: 0.5s;
+    font-size: 40pt;
+}
+.smart {
+    font-size: 20pt;
+    background: red;
+    padding: 20px;
+    text-align: right;
+    color: white;
+    transition:0.5s;
+}
+.smart:hover{
+    background: blue;
+    transition: 0.5s;
+
+}
+
+
+
+
+
+
+
